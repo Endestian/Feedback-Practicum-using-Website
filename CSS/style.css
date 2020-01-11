@@ -1,0 +1,79 @@
+html{
+	height: 100%;
+}
+body{
+	background-image:url(../img/background.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 98%;
+    height: 100%; 
+	font-family:Tahoma, Geneva, sans-serif;
+}
+textarea{
+	padding: 5px;
+	box-sizing: border-box;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	border: none;
+    outline: none;
+	-webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+	background-color:rgba(0,0,0,0.3);
+	border-radius:5px;
+	resize: none;
+}
+table{
+	padding-top:20px;
+	color:white;
+}
+td{
+	padding-top:10px;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+input {
+    padding:5px; 
+    border:0px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+	background-color:rgba(0,0,0,0.3);
+	font-family:Tahoma, Geneva, sans-serif;
+	color:white;
+	width: 191px;
+}
+select {
+	border:0px solid #ccc; 
+    -webkit-border-radius: 5px;
+	background-color:rgba(0,0,0,0.3);
+	width: 150px;
+	color:white;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+.copyright{
+	padding-top:84px;
+	font-size:12px;
+	color:rgba(0,0,51,0.9);
+	margin:0 auto;
+}
+.kotak{
+	width:600px;
+	background-color:rgba(0,0,0,0.3);
+	margin:0 auto;
+	padding-bottom:10px;
+	border-radius:10px;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
