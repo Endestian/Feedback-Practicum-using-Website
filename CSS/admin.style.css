@@ -1,0 +1,35 @@
+input{
+	width: 100%;
+	margin: 5px;
+	height: 20px;
+	position: center;
+}
+.judul{
+	padding: 20px;
+	margin: 0 auto;
+	width: 18%;
+	text-align: center;
+	background-color: rgba(66, 138, 255, 0);
+}
+.judul2{
+	padding: 20px;
+	margin: 0 auto;
+	width: 18%;
+	text-align: center;
+	background-color: rgba(112, 112, 112, 0.5)
+}
+
+img{
+	padding-bottom: 30px; 
+	margin-left:30px; 
+	margin-right:30px; 
+	line-height: 23px; 
+	line-weight: 10px;
+	padding-top:15px;
+}
+.ukur{
+	width: 200px;
+}
+.reg-style{
+	text-decoration: none;
+}
